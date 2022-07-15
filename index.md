@@ -1,4 +1,4 @@
-## Bem-vindo às páginas do GitH
+## Bem-vindo às páginas do Git
 
 
 ![NUX_Octodex](https://user-images.githubusercontent.com/105249309/179226717-1455eeb4-a32b-4f7e-96bc-67b51839c288.gif)
