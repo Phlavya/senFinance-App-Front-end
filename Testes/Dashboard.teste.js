@@ -4,13 +4,13 @@ import "@testing-library/jest-dom";
   
  const data = [ 
    { 
-     titulo: "Algum título", 
-     valor: "10,00", 
-     categoria: "Alimentação", 
-     tipo: "Entrada", 
-     data: "20/03/2022 às 13:15:24", 
-   }, 
- ]; 
+     título :       "crédito",
+     valor :      "300, 00" ,
+     categoria :   "Alimentação" , 
+     tipo :   "Entrada" , 
+     data :              "06/07/2022 às 13:15:24 ”, _ _ _ _ _ _ _ _                                
+   },,
+];
  const dataStringfy = JSON.stringify(data); 
   
  describe("Componente Dashboard", () => { 
