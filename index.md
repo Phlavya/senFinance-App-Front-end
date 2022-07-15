@@ -1,7 +1,7 @@
 ## Bem-vindo às páginas do GitH
 
 
-![NUX_Octodex](https://user-images.githubusercontent.com/105249309/179224505-cfe8ea27-cff6-495b-898c-b0720b1d7e0b.gif)
+! [NUX_Octodex] (https://user-images.githubusercontent.com/105249309/179224505-cfe8ea27-cff6-495b-898c-b0720b1d7e0b.gif)
 
 
 
@@ -25,11 +25,14 @@
 
 
 
+*Link funcional
+https://senfinanca-app.vercel.app/registro
 
 
 
 
 
+Está com problemas com o Pages?Veja nossa [documentação] ( https://docs.github.com/categories/github-pages-basics/ ) ou [contact support] ( https://suport.github.com/contact ) e nós o ajudamos resolver isso.
 
 
-Está com problemas com o Pages? nossa [documentação](https://docs.github.com/categories/github-pages-basics/) ou [contact support](https://suport.github.com/contact) e nós o ajudamos resolver isso.
+![Screenshot_2022-07-03-13-09-01-765_com android chrome](https://user-images.githubusercontent.com/105249309/179226333-bbc33588-ba7e-4f14-9a9a-26c089709c8f.jpg)
