@@ -32,9 +32,10 @@
 
 ➡React Testing Library (utilizado para testes unitários)
 
-## Layout
+## Disposição
 
-![CYMERA_20220715_014629](https://user-images.githubusercontent.com/105249309/179153919-52573554-7b15-44e9-9a27-4b3ae3e1847a.jpg)
+ ![CYMERA_20220715_084010](https://user-images.githubusercontent.com/105249309/179216554-4cb453a5-d30f-4ecf-af8a-0def3893f398.jpg)
+
 
 ![255 Sem Título_20220715082616](https://user-images.githubusercontent.com/105249309/179214995-8d044b83-6733-47d8-8c8b-a0a388181fcf.png)
 
