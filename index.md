@@ -1,8 +1,7 @@
 ## Bem-vindo às páginas do GitH
 
 
-! [NUX_Octodex] (https://user-images.githubusercontent.com/105249309/179224505-cfe8ea27-cff6-495b-898c-b0720b1d7e0b.gif)
-
+![NUX_Octodex](https://user-images.githubusercontent.com/105249309/179226717-1455eeb4-a32b-4f7e-96bc-67b51839c288.gif)
 
 
 
