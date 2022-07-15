@@ -36,11 +36,14 @@
 
 ![CYMERA_20220715_014629](https://user-images.githubusercontent.com/105249309/179153919-52573554-7b15-44e9-9a27-4b3ae3e1847a.jpg)
 
-![CYMERA_20220715_014537](https://user-images.githubusercontent.com/105249309/179153998-fed9e7dc-49f8-4a17-982a-3f5beb88ba54.jpg)
+![255 Sem Título_20220715082616](https://user-images.githubusercontent.com/105249309/179214995-8d044b83-6733-47d8-8c8b-a0a388181fcf.png)
 
-![CYMERA_20220715_014601](https://user-images.githubusercontent.com/105249309/179154052-49bdf4f2-3d66-41b1-9247-747ad263b20b.jpg)
 
-![CYMERA_20220715_014421](https://user-images.githubusercontent.com/105249309/179154752-ff63bc9a-e68f-4c70-b436-68aa3a4708e1.jpg)
+![CYMERA_20220715_014601](https://user-images.githubusercontent.com/105249309/179215310-c67cec38-1d33-4a6e-bf42-b7b144402b92.jpg)
+
+
+![CYMERA_20220715_014421](https://user-images.githubusercontent.com/105249309/179215456-df08ec82-b204-426b-a4f8-6d4bd87f2a2d.jpg)
+
 
 
 ### Página inicial Player Bank senFinance
