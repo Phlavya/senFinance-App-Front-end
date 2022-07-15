@@ -34,4 +34,4 @@ https://senfinanca-app.vercel.app/registro
 Está com problemas com o Pages?Veja nossa [documentação] ( https://docs.github.com/categories/github-pages-basics/ ) ou [contact support] ( https://suport.github.com/contact ) e nós o ajudamos resolver isso.
 
 
-![Screenshot_2022-07-03-13-09-01-765_com android chrome](https://user-images.githubusercontent.com/105249309/179226333-bbc33588-ba7e-4f14-9a9a-26c089709c8f.jpg)
+ ![CYMERA_20220715_095352](https://user-images.githubusercontent.com/105249309/179227197-b3cb607b-d895-460e-856f-0d2eca759251.jpg)
