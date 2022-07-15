@@ -9,7 +9,7 @@
 
 ➡ReactJS
 
-
+➡IbisPaintDesing + Photoshop
 
 ➡HTML
 
