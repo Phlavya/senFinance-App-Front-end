@@ -2,9 +2,10 @@
 
 ## Projeto desenvolvido para controle de finanças pessoais
 
-## *Desenvolvimento
+## Desenvolvimento
 
-*Tecnologias utilizadas
+
+🖥Tecnologias utilizadas
 
 ReactJS
 
