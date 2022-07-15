@@ -20,7 +20,7 @@ import "@testing-library/jest-dom";
 
      tipo: "Entrada", 
 
-     dados : "14/07/2022 _ _ _ _ _ _ _ _ _ _ _ _ _ _                                                                                                                                  
+     dados :    "14/07/2022 " , _ _ _ 
 
    }, 
 
