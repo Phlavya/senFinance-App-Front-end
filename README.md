@@ -1,35 +1,35 @@
-# senFinance-App-Front-end
+# SenFinança-PlayerBank/Projeto Front-End
 
 ## Projeto desenvolvido para controle de finanças pessoais
 
-## Desenvolvimento
+### Desenvolvimento
+
+🖥
 
 
-🖥Tecnologias utilizadas
-
-ReactJS
+➡ReactJS
 
 
 
-HTML
+➡HTML
 
-CSS
+➡CSS
 
-Javascript
+➡Javascript
 
-Material UI (manipulação visual utilizando elementos para UI Design)
+➡design de interface
 
-Formik (manipulação dos campos do formulário, tratativas de erro, dentre outras funcionalidades)
+➡Formik (manipulação dos campos do formulário dentre, tratativas de erro, outras funcionalidades)
 
-Yup (validação e manipulação de dados do formulário)
+➡Sim (validação e manipulação de dados do formulário)
 
-Notistack (apresentação de snackbar com informações para o usuário)
+➡Notistack (apresentação de snackbar com informações para o usuário)
 
-React Router (controle de roteamento das páginas da aplicação)
+➡React Router (controle de roteamento das páginas da aplicação)
 
-localStorage (utilizado para persistência de dados)
 
-React Testing Library (utilizado para testes unitários)
+➡localStorage (utilizado para persistência de dados)
+➡React Testing Library (utilizado para testes unitários)
 
 ## Layout
 
@@ -46,3 +46,17 @@ React Testing Library (utilizado para testes unitários)
 
 ![248 Sem Título_20220714233141](https://user-images.githubusercontent.com/105249309/179154533-e56221a6-bef6-477a-a1b2-5f1690d5011b.png)
 
+### Projeto final
+
+![CYMERA_20220715_070226](https://user-images.githubusercontent.com/105249309/179204027-ad0845de-7414-44d9-831c-bce27d416ab8.jpg)
+
+![CYMERA_20220715_070245](https://user-images.githubusercontent.com/105249309/179204088-aee3d451-2d18-4a21-a809-8e955143a88f.jpg)
+
+![CYMERA_20220715_070313](https://user-images.githubusercontent.com/105249309/179204496-ba5f357d-8b16-4fa1-8f43-42e247bec267.jpg)
+
+
+Obs.:O nome em inglês se aplica ao App. Na plataforma,fica traduzido.
+
+
+
+### Link para acesso https://senfinanca-app.vercel.app/registro
