@@ -38,4 +38,8 @@ React Testing Library (utilizado para testes unitários)
 
 ![CYMERA_20220715_014601](https://user-images.githubusercontent.com/105249309/179154052-49bdf4f2-3d66-41b1-9247-747ad263b20b.jpg)
 
-![CYMERA_20220715_014421](https://user-images.githubusercontent.com/105249309/179154084-c51468f8-b60b-49fb-ab33-0aa478169e09.jpg)
+! [CYMERA_20220715_014421] (https://user-images.githubusercontent.com/105249309/179154084-c51468f8-b60b-49fb-ab33-0aa478169e09.jpg)
+
+### Página inicial Player Bank senFinance
+
+![248 Sem Título_20220714233141](https://user-images.githubusercontent.com/105249309/179154533-e56221a6-bef6-477a-a1b2-5f1690d5011b.png)
