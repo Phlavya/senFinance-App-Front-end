@@ -4,7 +4,8 @@
 
 ### Desenvolvimento
 
-🖥
+![Logo senFinance](https://user-images.githubusercontent.com/105249309/179212810-3d122ddd-ef21-4396-9a50-096268c8ecc2.jpg)
+
 
 
 ➡ReactJS
@@ -27,8 +28,8 @@
 
 ➡React Router (controle de roteamento das páginas da aplicação)
 
+➡Armazenamento Local
 
-➡localStorage (utilizado para persistência de dados)
 ➡React Testing Library (utilizado para testes unitários)
 
 ## Layout
@@ -60,3 +61,6 @@ Obs.:O nome em inglês se aplica ao App. Na plataforma,fica traduzido.
 
 
 ### Link para acesso https://senfinanca-app.vercel.app/registro
+
+
+![254 Sem Título_20220715081557](https://user-images.githubusercontent.com/105249309/179212928-2c011647-4221-49f2-bcbd-0187727d9196.png)
